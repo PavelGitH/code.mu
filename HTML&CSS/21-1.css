@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+body {
+    width: 500px;
+    text-align: justify;
+}
+
+p {
+    text-indent: 25px;
+}
+
+ul {
+    width: 400px;
+}

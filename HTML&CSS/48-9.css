@@ -1,0 +1,10 @@
+li {
+    border: 1px solid red ;
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+li:empty {
+    border-color: blue;
+}

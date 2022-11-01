@@ -1,0 +1,17 @@
+.one {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+.two {
+    float: right;
+    margin: 20px 0 10px 20px;
+}
+
+div {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: justify;
+    border: 1px solid black;
+}

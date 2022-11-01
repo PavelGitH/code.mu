@@ -1,0 +1,16 @@
+.parent {
+    width: 400px;
+    border: 1px dashed blue;
+}
+
+.child {
+    margin: 25px;
+    border: 1px dashed green;
+
+}
+
+.bayby {
+    height: 200px;
+    margin: 25px;
+    border: 1px solid red;
+}

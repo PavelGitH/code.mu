@@ -1,0 +1,9 @@
+div {
+    margin: 25px;
+    width: 300px;
+    height: 200px;
+    border-left: 4px solid burlywood;
+    border-top: 4px solid blue;
+    border-right: 4px solid green;
+    border-bottom: 4px solid red;
+}

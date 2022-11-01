@@ -1,0 +1,17 @@
+.one {
+    float: left;
+}
+
+.two {
+    float: right;
+}
+
+img {
+    margin: 5px;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+}

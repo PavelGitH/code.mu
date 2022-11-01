@@ -1,0 +1,22 @@
+.parent {
+	border: 1px solid red;
+    width: 500px;
+}
+
+.child {
+    border: 1px solid green;
+    height: 100px;
+    margin: 10px auto;
+}
+
+.one {
+    width: 100px;
+}
+
+.two {
+    width: 200px;
+}
+
+.three {
+    width: 300px;
+}

@@ -1,0 +1,44 @@
+#wrapper {
+    width: 700px;
+    margin: 50px auto;
+    text-align: justify;
+    border: 1px solid black;
+}
+
+#menu {
+    display: flex;
+    background-color: darkolivegreen;
+}
+
+#menu a {
+    border: 1px solid darkolivegreen;
+    background-color: darkolivegreen;
+    padding: 15px 25px;
+    font: bold 14px Arial;
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover, #menu a.active {
+    color: darkolivegreen;
+    background-color: white;
+    border: 1px solid white;
+}
+
+#content h1 {
+    text-align: center;
+}
+
+#content p {
+    padding: 0 10px;
+}
+
+#content a {
+    color: blue;
+    text-decoration: none;
+}
+
+#content a:hover {
+    color: green;
+    text-decoration: underline;
+}

@@ -1,0 +1,17 @@
+#menu {
+    display: flex;
+}
+
+a {
+    border: 1px solid darkolivegreen;
+    background-color: darkolivegreen;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a.active {
+    color: white;
+    background-color: darkgreen;
+    border: 1px solid darkgreen;
+}

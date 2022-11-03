@@ -1,0 +1,33 @@
+#wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+#wrapper h1 {
+    font: 30px "Times New Roman";
+    text-align: center;
+}
+
+#wrapper a {
+    color: blue;
+    text-decoration: none;
+}
+
+#wrapper a:hover {
+    text-decoration: underline;
+}
+
+#content {
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#content p.more {
+    text-align: right;
+}
+
+#wrapper p {
+    margin: 10px 0;
+    text-align: justify;
+}

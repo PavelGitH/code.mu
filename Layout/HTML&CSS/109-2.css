@@ -1,0 +1,62 @@
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#containter {
+    text-align: justify;
+    border: 1px solid #CC8000;
+}
+
+#menu {
+    display: flex;
+    background-color: #CC8000;
+}
+
+#menu a {
+    border: 1px solid #CC8000;
+    padding: 15px 25px;
+    font: bold 14px Arial;
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover, #menu a.active {
+    color: #CC8000;
+    background-color: white;
+    border: 1px solid white;
+}
+
+#content h1, #content h2 {
+    text-align: center;
+    color: #9B6100;
+}
+
+#content p {
+    padding: 0 10px;
+    font: 17px/33px "Times New Roman";
+    text-align: justify;
+    text-indent: 50px;
+    color: #CC8000;
+}
+
+#content a {
+    color: #CC8000;
+    font-weight: bold;
+}
+
+#content a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+}
+
+#footer a {
+    color: #CC8000;
+    margin: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,50 @@
+p.task1 {
+    letter-spacing: 1px;
+}
+
+p.task2 {
+    letter-spacing: 3px;
+}
+
+p.task3 {
+    letter-spacing: -1px;
+}
+
+p.task4 {
+    word-spacing: 3px;
+}
+
+p.task5 {
+    word-spacing: 0px;
+}
+
+p.task6 {
+    text-transform: uppercase;
+}
+
+p.task7 span {
+    text-transform: uppercase;
+}
+
+p.task8 {
+    text-transform: capitalize;
+}
+
+p.task9 {
+    text-align-last: right;
+}
+
+.task10, .task11 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.task10 p::first-letter {
+    color: red;
+    font-size: 27px;
+}
+
+.task11 p::first-line {
+    color: red;
+    font-style: italic;
+}

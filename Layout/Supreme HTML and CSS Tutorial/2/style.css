@@ -1,0 +1,34 @@
+div.task2 {
+    width: 200px;
+    white-space: nowrap;
+}
+
+div.task3 p.pre {
+    white-space: pre;
+}
+
+div.task3 p.preWrap {
+    white-space: pre-wrap;
+}
+
+div.task3 p.preLine {
+    white-space: pre-line;
+}
+
+div.task4 {
+	tab-size: 0;
+	white-space: pre;
+	border: 1px solid black;
+}
+
+div.task5 {
+    tab-size: 4;
+    white-space: pre;
+    border: 1px solid black;
+}
+
+div.task6 {
+    tab-size: 2;
+    white-space: pre;
+    border: 1px solid black;
+}

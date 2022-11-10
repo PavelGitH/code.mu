@@ -1,7 +1,7 @@
 "use strict";
 
 let num = 10;
-num +=  1;
-num += 1;
-num -= 1;
+num ++;
+num ++;
+num --;
 alert(num);
